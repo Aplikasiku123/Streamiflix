@@ -2,4 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-body { background: #0B0B0B; color: white; }
+body { 
+  background: #0B0B0B; 
+  color: white;
+  margin: 0;
+}
